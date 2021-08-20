@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://ak.picdn.net/shutterstock/videos/24087721/thumb/1.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+#Clock{
+  
+  text-shadow: 4px 4px 5px white;
+  font-size:60px;
+}
